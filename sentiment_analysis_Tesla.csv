@@ -1,0 +1,101 @@
+date,text,user,location,retweets,likes,cleaned_text,vader_score,textblob_score,sentiment,engagement
+2023-10-30,Just bought Tesla and I'm really impressed with the quality!,user_0,New York,17,38,bought tesla really impressed quality,0.5256,1.0,positive,55
+2023-12-24,Just bought Tesla and I'm really impressed with the quality!,user_1,London,4,86,bought tesla really impressed quality,0.5256,1.0,positive,90
+2023-12-30,Very satisfied with Tesla performance. Exceeded expectations.,user_2,Tokyo,8,95,satisfied tesla performance exceeded expectation,0.4215,0.5,positive,103
+2023-10-09,Tesla needs to improve their delivery times. It's taking forever!,user_3,Tokyo,38,40,tesla need improve delivery time taking forever,0.4404,0.0,positive,78
+2023-10-10,Great experience with Tesla support team. Very helpful!,user_4,Unknown,41,30,great experience tesla support team helpful,0.8625,0.8,positive,71
+2023-10-09,Tesla keeps crashing. Need to fix these bugs ASAP.,user_5,Sydney,10,98,tesla keep crashing need fix bug asap,0.0,0.0,neutral,108
+2023-10-29,I recommend Tesla to all my friends. Best product ever!,user_6,London,32,97,recommend tesla friend best product ever,0.872,1.0,positive,129
+2023-10-29,Disappointed with Tesla's quality. Expected better.,user_7,Sydney,34,56,disappointed tesla quality expected better,-0.0516,-0.11666666666666665,negative,90
+2023-12-27,Very satisfied with Tesla performance. Exceeded expectations.,user_8,New York,29,61,satisfied tesla performance exceeded expectation,0.4215,0.5,positive,90
+2023-10-21,Great experience with Tesla support team. Very helpful!,user_9,Unknown,48,40,great experience tesla support team helpful,0.8625,0.8,positive,88
+2023-12-14,Tesla stopped working after 2 days. Poor quality.,user_10,London,36,31,tesla stopped working day poor quality,-0.6124,-0.4,negative,67
+2023-10-20,The Tesla event was a huge success!,user_11,New York,13,57,tesla event huge success,0.7184,0.35,positive,70
+2023-12-27,Just bought Tesla and I'm really impressed with the quality!,user_12,New York,30,46,bought tesla really impressed quality,0.5256,1.0,positive,76
+2023-12-08,Tesla is decent but could be improved.,user_13,Tokyo,24,6,tesla decent could improved,0.4767,0.16666666666666666,positive,30
+2023-12-24,Pretty happy with my Tesla purchase. Good value for money.,user_14,Unknown,17,60,pretty happy tesla purchase good value money,0.9042,0.5833333333333334,positive,77
+2023-10-21,The Tesla event was a huge success!,user_15,New York,38,47,tesla event huge success,0.7184,0.35,positive,85
+2023-10-29,Tesla keeps crashing. Need to fix these bugs ASAP.,user_16,Tokyo,0,72,tesla keep crashing need fix bug asap,0.0,0.0,neutral,72
+2023-11-06,The Tesla event was a huge success!,user_17,New York,2,80,tesla event huge success,0.7184,0.35,positive,82
+2023-11-22,Great experience with Tesla support team. Very helpful!,user_18,Tokyo,39,35,great experience tesla support team helpful,0.8625,0.8,positive,74
+2023-10-20,The Tesla event was a huge success!,user_19,New York,1,48,tesla event huge success,0.7184,0.35,positive,49
+2023-12-21,Disappointed with Tesla's quality. Expected better.,user_20,New York,16,62,disappointed tesla quality expected better,-0.0516,-0.11666666666666665,negative,78
+2023-11-11,Pretty happy with my Tesla purchase. Good value for money.,user_21,London,1,15,pretty happy tesla purchase good value money,0.9042,0.5833333333333334,positive,16
+2023-11-26,I recommend Tesla to all my friends. Best product ever!,user_22,London,33,99,recommend tesla friend best product ever,0.872,1.0,positive,132
+2023-11-11,Tesla keeps crashing. Need to fix these bugs ASAP.,user_23,New York,18,28,tesla keep crashing need fix bug asap,0.0,0.0,neutral,46
+2023-12-18,Tesla customer service is terrible. Avoid at all costs.,user_24,New York,49,87,tesla customer service terrible avoid cost,-0.6486,-1.0,negative,136
+2023-11-12,Best decision I made was buying Tesla. Love it!,user_25,New York,34,23,best decision made buying tesla love,0.8555,0.75,positive,57
+2023-12-25,The Tesla event was a huge success!,user_26,New York,5,4,tesla event huge success,0.7184,0.35,positive,9
+2023-11-11,Very satisfied with Tesla performance. Exceeded expectations.,user_27,Unknown,31,89,satisfied tesla performance exceeded expectation,0.4215,0.5,positive,120
+2023-11-29,Tesla stopped working after 2 days. Poor quality.,user_28,Unknown,42,87,tesla stopped working day poor quality,-0.6124,-0.4,negative,129
+2023-10-27,"Tesla is okay, nothing special really.",user_29,Unknown,31,48,tesla okay nothing special really,-0.092,0.3523809523809524,negative,79
+2024-01-03,Great experience with Tesla support team. Very helpful!,user_30,Unknown,10,25,great experience tesla support team helpful,0.8625,0.8,positive,35
+2023-12-02,The Tesla event was a huge success!,user_31,New York,14,19,tesla event huge success,0.7184,0.35,positive,33
+2023-12-12,The Tesla event was a huge success!,user_32,New York,2,12,tesla event huge success,0.7184,0.35,positive,14
+2023-10-04,Tesla keeps crashing. Need to fix these bugs ASAP.,user_33,London,15,87,tesla keep crashing need fix bug asap,0.0,0.0,neutral,102
+2023-11-01,Having issues with Tesla customer service. Very disappointed.,user_34,Sydney,0,1,issue tesla customer service disappointed,-0.4767,-0.75,negative,1
+2023-10-28,I recommend Tesla to all my friends. Best product ever!,user_35,New York,19,44,recommend tesla friend best product ever,0.872,1.0,positive,63
+2023-12-16,Why is Tesla's website always down? #frustrated,user_36,Tokyo,41,0,tesla website always,0.0,0.0,neutral,41
+2023-11-24,"Tesla is okay, nothing special really.",user_37,New York,25,56,tesla okay nothing special really,-0.092,0.3523809523809524,negative,81
+2023-12-13,Tesla stopped working after 2 days. Poor quality.,user_38,Tokyo,10,75,tesla stopped working day poor quality,-0.6124,-0.4,negative,85
+2023-11-12,Just bought Tesla and I'm really impressed with the quality!,user_39,London,19,19,bought tesla really impressed quality,0.5256,1.0,positive,38
+2023-10-26,The Tesla event was a huge success!,user_40,Tokyo,28,94,tesla event huge success,0.7184,0.35,positive,122
+2023-10-04,Amazing features in the new Tesla update. Well done!,user_41,London,8,51,amazing feature new tesla update well done,0.7096,0.3681818181818182,positive,59
+2023-12-20,Disappointed with Tesla's quality. Expected better.,user_42,Sydney,14,8,disappointed tesla quality expected better,-0.0516,-0.11666666666666665,negative,22
+2023-11-06,Tesla customer service is terrible. Avoid at all costs.,user_43,Tokyo,23,89,tesla customer service terrible avoid cost,-0.6486,-1.0,negative,112
+2023-11-02,Tesla stopped working after 2 days. Poor quality.,user_44,Unknown,19,22,tesla stopped working day poor quality,-0.6124,-0.4,negative,41
+2024-01-05,Tesla needs to improve their delivery times. It's taking forever!,user_45,London,11,33,tesla need improve delivery time taking forever,0.4404,0.0,positive,44
+2023-12-22,The Tesla event was a huge success!,user_46,Tokyo,5,43,tesla event huge success,0.7184,0.35,positive,48
+2023-11-09,Loving the new Tesla product! It's amazing!,user_47,London,36,42,loving new tesla product amazing,0.8271,0.4454545454545455,positive,78
+2023-11-23,Very satisfied with Tesla performance. Exceeded expectations.,user_48,London,41,63,satisfied tesla performance exceeded expectation,0.4215,0.5,positive,104
+2023-12-08,I recommend Tesla to all my friends. Best product ever!,user_49,Tokyo,45,14,recommend tesla friend best product ever,0.872,1.0,positive,59
+2023-10-20,Not sure how I feel about Tesla's new update. It's confusing.,user_50,Unknown,6,87,sure feel tesla new update confusing,0.1027,0.11212121212121212,positive,93
+2023-12-20,Best decision I made was buying Tesla. Love it!,user_51,Sydney,2,80,best decision made buying tesla love,0.8555,0.75,positive,82
+2023-12-23,Loving the new Tesla product! It's amazing!,user_52,Sydney,40,73,loving new tesla product amazing,0.8271,0.4454545454545455,positive,113
+2023-10-08,Why is Tesla's website always down? #frustrated,user_53,Unknown,45,84,tesla website always,0.0,0.0,neutral,129
+2023-12-09,Just bought Tesla and I'm really impressed with the quality!,user_54,Tokyo,46,56,bought tesla really impressed quality,0.5256,1.0,positive,102
+2023-11-16,Great experience with Tesla support team. Very helpful!,user_55,Unknown,40,58,great experience tesla support team helpful,0.8625,0.8,positive,98
+2023-10-23,Tesla keeps crashing. Need to fix these bugs ASAP.,user_56,Unknown,34,53,tesla keep crashing need fix bug asap,0.0,0.0,neutral,87
+2023-12-01,Tesla has the worst user interface I've ever seen.,user_57,London,17,66,tesla worst user interface ive ever seen,-0.6249,-1.0,negative,83
+2023-11-15,Tesla is decent but could be improved.,user_58,Sydney,39,52,tesla decent could improved,0.4767,0.16666666666666666,positive,91
+2023-12-30,Loving the new Tesla product! It's amazing!,user_59,Sydney,45,24,loving new tesla product amazing,0.8271,0.4454545454545455,positive,69
+2023-10-28,Pretty happy with my Tesla purchase. Good value for money.,user_60,Sydney,21,74,pretty happy tesla purchase good value money,0.9042,0.5833333333333334,positive,95
+2024-01-03,I recommend Tesla to all my friends. Best product ever!,user_61,Tokyo,26,71,recommend tesla friend best product ever,0.872,1.0,positive,97
+2023-12-19,Tesla is decent but could be improved.,user_62,London,23,64,tesla decent could improved,0.4767,0.16666666666666666,positive,87
+2023-11-03,"Tesla is okay, nothing special really.",user_63,Sydney,38,96,tesla okay nothing special really,-0.092,0.3523809523809524,negative,134
+2023-12-22,Tesla needs to improve their delivery times. It's taking forever!,user_64,Sydney,5,56,tesla need improve delivery time taking forever,0.4404,0.0,positive,61
+2023-11-09,Loving the new Tesla product! It's amazing!,user_65,New York,10,49,loving new tesla product amazing,0.8271,0.4454545454545455,positive,59
+2023-10-19,Best decision I made was buying Tesla. Love it!,user_66,Sydney,32,4,best decision made buying tesla love,0.8555,0.75,positive,36
+2023-12-25,Tesla is decent but could be improved.,user_67,Unknown,35,59,tesla decent could improved,0.4767,0.16666666666666666,positive,94
+2023-10-18,Great experience with Tesla support team. Very helpful!,user_68,Unknown,24,43,great experience tesla support team helpful,0.8625,0.8,positive,67
+2024-01-02,I recommend Tesla to all my friends. Best product ever!,user_69,London,43,97,recommend tesla friend best product ever,0.872,1.0,positive,140
+2023-10-10,Why is Tesla's website always down? #frustrated,user_70,London,10,89,tesla website always,0.0,0.0,neutral,99
+2023-11-26,Why is Tesla's website always down? #frustrated,user_71,Unknown,8,49,tesla website always,0.0,0.0,neutral,57
+2023-12-11,Tesla needs to improve their delivery times. It's taking forever!,user_72,Sydney,38,63,tesla need improve delivery time taking forever,0.4404,0.0,positive,101
+2023-11-22,Not sure how I feel about Tesla's new update. It's confusing.,user_73,Sydney,6,9,sure feel tesla new update confusing,0.1027,0.11212121212121212,positive,15
+2023-12-16,"Tesla is okay, nothing special really.",user_74,Tokyo,10,30,tesla okay nothing special really,-0.092,0.3523809523809524,negative,40
+2023-12-28,Disappointed with Tesla's quality. Expected better.,user_75,Unknown,14,3,disappointed tesla quality expected better,-0.0516,-0.11666666666666665,negative,17
+2023-12-15,Tesla is decent but could be improved.,user_76,Tokyo,16,71,tesla decent could improved,0.4767,0.16666666666666666,positive,87
+2023-12-18,Not sure how I feel about Tesla's new update. It's confusing.,user_77,Tokyo,37,41,sure feel tesla new update confusing,0.1027,0.11212121212121212,positive,78
+2023-11-09,Disappointed with Tesla's quality. Expected better.,user_78,Unknown,32,52,disappointed tesla quality expected better,-0.0516,-0.11666666666666665,negative,84
+2024-01-08,"Tesla is okay, nothing special really.",user_79,Tokyo,2,95,tesla okay nothing special really,-0.092,0.3523809523809524,negative,97
+2023-10-17,Tesla customer service is terrible. Avoid at all costs.,user_80,Sydney,28,14,tesla customer service terrible avoid cost,-0.6486,-1.0,negative,42
+2023-10-13,"Tesla is okay, nothing special really.",user_81,New York,7,51,tesla okay nothing special really,-0.092,0.3523809523809524,negative,58
+2023-10-03,Disappointed with Tesla's quality. Expected better.,user_82,Sydney,14,49,disappointed tesla quality expected better,-0.0516,-0.11666666666666665,negative,63
+2023-11-04,The Tesla event was a huge success!,user_83,London,8,77,tesla event huge success,0.7184,0.35,positive,85
+2024-01-05,Not sure how I feel about Tesla's new update. It's confusing.,user_84,London,38,47,sure feel tesla new update confusing,0.1027,0.11212121212121212,positive,85
+2023-10-17,Great experience with Tesla support team. Very helpful!,user_85,Tokyo,13,88,great experience tesla support team helpful,0.8625,0.8,positive,101
+2023-12-16,Tesla keeps crashing. Need to fix these bugs ASAP.,user_86,London,3,33,tesla keep crashing need fix bug asap,0.0,0.0,neutral,36
+2023-10-02,Tesla keeps crashing. Need to fix these bugs ASAP.,user_87,Sydney,24,73,tesla keep crashing need fix bug asap,0.0,0.0,neutral,97
+2023-10-25,Why is Tesla's website always down? #frustrated,user_88,London,37,45,tesla website always,0.0,0.0,neutral,82
+2023-11-10,Amazing features in the new Tesla update. Well done!,user_89,Unknown,48,1,amazing feature new tesla update well done,0.7096,0.3681818181818182,positive,49
+2023-10-20,Tesla stopped working after 2 days. Poor quality.,user_90,Unknown,49,85,tesla stopped working day poor quality,-0.6124,-0.4,negative,134
+2023-12-13,Not sure how I feel about Tesla's new update. It's confusing.,user_91,Sydney,28,90,sure feel tesla new update confusing,0.1027,0.11212121212121212,positive,118
+2023-11-27,I recommend Tesla to all my friends. Best product ever!,user_92,London,35,73,recommend tesla friend best product ever,0.872,1.0,positive,108
+2023-10-04,Just bought Tesla and I'm really impressed with the quality!,user_93,Unknown,40,95,bought tesla really impressed quality,0.5256,1.0,positive,135
+2023-11-22,"Tesla is okay, nothing special really.",user_94,New York,40,64,tesla okay nothing special really,-0.092,0.3523809523809524,negative,104
+2023-12-07,Just bought Tesla and I'm really impressed with the quality!,user_95,Sydney,17,35,bought tesla really impressed quality,0.5256,1.0,positive,52
+2023-10-07,Tesla customer service is terrible. Avoid at all costs.,user_96,Tokyo,18,80,tesla customer service terrible avoid cost,-0.6486,-1.0,negative,98
+2023-10-09,Why is Tesla's website always down? #frustrated,user_97,Tokyo,16,77,tesla website always,0.0,0.0,neutral,93
+2023-10-16,Why is Tesla's website always down? #frustrated,user_98,Sydney,15,94,tesla website always,0.0,0.0,neutral,109
+2024-01-08,Amazing features in the new Tesla update. Well done!,user_99,New York,29,54,amazing feature new tesla update well done,0.7096,0.3681818181818182,positive,83
